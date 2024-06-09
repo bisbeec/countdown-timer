@@ -119,6 +119,9 @@ body {
     font-size: 0.6rem;
     letter-spacing: 1px;
   }
+  .main .timer .timer-col::before, .main .timer .timer-col::after {
+    top: 30px;
+  }
 }
 
 .footer {
